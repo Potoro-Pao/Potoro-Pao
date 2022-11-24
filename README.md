@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Potoro-Pao
-- 👀 I’m interested in game programming.
-- 🌱 I’m a new self-taught programmer currently learning Python and Machine Learning, and still trying to figure out how these work.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding, and coding for soical good, and video game coding.
+- 🌱 I’m a new self-taught programmer currently learning Python and Machine Learning.
+- 💞️ I’m looking to collaborate on tasks that can sharpen my coding skills.
+- 📫 How to reach me you can write email to the following account.
+- forwok123@gmail.com
+
 
 <!---
 Potoro-Pao/Potoro-Pao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
