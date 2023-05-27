@@ -2,8 +2,6 @@
 - 👀 I’m interested in coding, and coding for soical good, and video game coding.
 - 🌱 I’m a new self-taught programmer currently learning JavaScript, and Python for Machine Learning as well as Games and Web developing.
 - 💞️ I’m looking to collaborate on tasks that can sharpen my coding skills.
-- 📫 How to reach me you can write email to the following account.
-- forwok123@gmail.com
 
 
 <!---
